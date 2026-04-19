@@ -56,4 +56,4 @@ npm run dev
  
 ---
  
-**Author:** Your Name | your@email.com
+**Author:** Om Wadkar | omwadkar2712@email.com
